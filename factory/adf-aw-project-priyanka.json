@@ -1,0 +1,9 @@
+{
+	"name": "adf-aw-project-priyanka",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f661d30f-ce6e-494f-8619-0f1e0cd988b8",
+		"tenantId": "80d8b5a9-a2e9-4997-a38b-d0e9c44ef5d6"
+	}
+}
